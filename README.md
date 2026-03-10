@@ -25,3 +25,6 @@ javac BankingGUI.java
 Run the program:
 
 java BankingGUI
+
+## Application Interface
+![Banking GUI](Banking-ui.png)
